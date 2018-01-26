@@ -1,2 +1,2 @@
 # test
-vezba
+Ovo je moja vezba
